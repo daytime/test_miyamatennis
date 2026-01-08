@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+#text {
+  transition: all 3s ease;
+}
+
+#btn {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.normal {
+  font-size: 16px;
+}
+
+.changed {
+  color: red;
+  font-size: 40px;
+  transition: all 1s ease-in-out;
+}
